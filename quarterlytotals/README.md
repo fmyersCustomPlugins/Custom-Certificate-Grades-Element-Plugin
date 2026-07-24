@@ -23,13 +23,13 @@ any other plugins in order to work.
 - Every cell has an explicit width percentage, so the table stays a
   uniform size and every row lines up regardless of how long each course
   name is.
-- Colours are set once, site-wide, via **Site administration > Plugins >
+- Colors are set once, site-wide, via **Site administration > Plugins >
   Activity modules > Certificate** (search "quarterlytotals" in the
   admin settings search box if you can't find it):
-  - Heading text colour (the Q1/Q2/Q3/Q4/Final labels)
-  - Heading background colour
-  - Grade/course-name text colour
-  - Border colour
+  - Heading text color (the Q1/Q2/Q3/Q4/Final labels)
+  - Heading background color
+  - Grade/course-name text color
+  - Border color
   - Course name column width (%)
 
 ## Installation - via the "Install plugins" upload page
